@@ -41,3 +41,4 @@
   run diff -wbB r2_output.txt targets/r2_target_output.txt
   [ "$status" -eq 0 ]
 }
+
